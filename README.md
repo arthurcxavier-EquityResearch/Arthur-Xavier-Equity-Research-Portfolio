@@ -1,4 +1,5 @@
 Arthur Xavier – Equity Research Portfolio
+
 Welcome to my Equity Research Portfolio.
 
 This repository contains independent equity research reports and financial valuation models developed using publicly available information. The objective is to demonstrate practical skills in equity research, financial modeling, valuation, and investment analysis.
